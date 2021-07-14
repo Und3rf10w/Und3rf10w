@@ -1,5 +1,11 @@
-### Hi there 👋
+# Greetz 👋
+I am Und3rf10w, occasional security tool developer, hobbiyst, and security researcher.
 
+Also check out my    ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FUnd3rf10w)
+
+# Statz 🖥
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Und3rf10w&show_icons=true&hide_border=false&theme=dark&count_private=true&hide_title=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Und3rf10w&langs_count=5&show_icons=true&hide_border=false&theme=dark&count_private=true&hide=powershell&layout=compact)
 <!--
 **Und3rf10w/Und3rf10w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
