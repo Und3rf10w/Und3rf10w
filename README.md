@@ -1,7 +1,7 @@
 # Greetz 👋
 I am Und3rf10w, occasional security tool developer, hobbiyst, and security researcher.
 
-Also check out my    ![Twitter Follow](https://img.shields.io/twitter/follow/Und3rf10w?style=social)
+Also check out my    <a href="https://twitter.com/Und3rf10w" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1"/>
 
 # Statz 🖥
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Und3rf10w&show_icons=true&hide_border=false&theme=dark&count_private=true&hide_title=false)
