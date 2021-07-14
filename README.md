@@ -5,7 +5,7 @@ Also check out my    ![Twitter URL](https://img.shields.io/twitter/url?label=Twi
 
 # Statz 🖥
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Und3rf10w&show_icons=true&hide_border=false&theme=dark&count_private=true&hide_title=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Und3rf10w&langs_count=5&show_icons=true&hide_border=false&theme=dark&count_private=true&hide=powershell&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Und3rf10w&langs_count=5&show_icons=true&hide_border=false&theme=dark&count_private=true&hide=powershell,dockerfile,slash&layout=compact)
 <!--
 **Und3rf10w/Und3rf10w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
