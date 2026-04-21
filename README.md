@@ -1,7 +1,7 @@
 # Greetz 👋
-I am Und3rf10w, occasional security tool developer, hobbiyst, and security researcher.
+I am Und3rf10w, occasional security tool developer, hobbiyst, and security researcher. I also make AI do a lot of weird things.
 
-Also check out my    <a href="https://twitter.com/Und3rf10w" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1"/>
+Also check out my <a href="https://twitter.com/Und3rf10w" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1"/>
 
 # Statz 🖥
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Und3rf10w&show_icons=true&hide_border=false&theme=dark&count_private=true&hide_title=false)
